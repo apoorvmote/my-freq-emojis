@@ -3,7 +3,7 @@
 version: '3'
 
 vars:
-  COMMIT_MESSAGE: first commit
+  COMMIT_MESSAGE: license heading updated
 
 tasks:
   default:
