@@ -3,7 +3,7 @@
 version: '3'
 
 vars:
-  COMMIT_MESSAGE: license heading updated
+  COMMIT_MESSAGE: added one row
 
 tasks:
   default:
